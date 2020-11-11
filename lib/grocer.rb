@@ -26,7 +26,7 @@ def consolidate_cart(cart)
   # change `cart` (i.e. mutate) it. It's easier to return a new thing.
 
   new_cart = []
-  index
+  index = 0
   
   cart.each do |grocery_item|
   cart.each do |grocery_item|
